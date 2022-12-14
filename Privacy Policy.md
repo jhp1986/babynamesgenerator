@@ -18,3 +18,9 @@ https://github.com/jhp1986/babynamesgenerator/blob/ab1635031798c207fc92748bcce91
 | `android.permission.ACCESS_NETWORK_STATE` | Required to ... |
 
  <hr style="border:1px solid gray">
+ 
+If you find any security or privacy vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+
+Yours sincerely,  
+ 
+jhp1986@gmail.com
