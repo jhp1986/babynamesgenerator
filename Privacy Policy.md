@@ -8,7 +8,7 @@ I would like to state, to the best of my knowledge, that I have not programmed t
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/jhp1986/babynamesgenerator/blob/main/app/src/main/AndroidManifest.xml#L6-L7
+https://github.com/jhp1986/babynamesgenerator/blob/ab1635031798c207fc92748bcce91d133715b969/app/src/main/AndroidManifest.xml#L6-L7
 
 <br/>
 
