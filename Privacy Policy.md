@@ -7,3 +7,14 @@ I would like to state, to the best of my knowledge, that I have not programmed t
 ### Explanation of permissions requested in the app
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
+
+https://github.com/jhp1986/babynamesgenerator/blob/main/app/src/main/AndroidManifest.xml#L6-L7
+
+<br/>
+
+| Permission | Why it is required |
+| :---: | --- |
+| `android.permission.INTERNET` | This is required to ... |
+| `android.permission.ACCESS_NETWORK_STATE` | Required to ... |
+
+ <hr style="border:1px solid gray">
