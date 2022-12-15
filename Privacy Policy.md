@@ -14,8 +14,8 @@ https://github.com/jhp1986/babynamesgenerator/blob/ab1635031798c207fc92748bcce91
 
 | Permission | Why it is required |
 | :---: | --- |
-| `android.permission.INTERNET` | This is Android permission required to show advertisement banners (through AdMob). |
-| `android.permission.ACCESS_NETWORK_STATE` | This is Android permission required to show advertisement banners (through AdMob). |
+| `android.permission.INTERNET` | This Android permission is required to show advertisement banners (through AdMob). |
+| `android.permission.ACCESS_NETWORK_STATE` | This Android permission is required to show advertisement banners (through AdMob). |
 
  <hr style="border:1px solid gray">
  
